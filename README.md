@@ -7,6 +7,8 @@
 
 ![睫毛外设 Corne 的照片](https://ae01.alicdn.com/kf/Sa797fee25edd44248fbfdb0e13d44e00B.jpg)
 
+-2026/6/22 键盘支持DYA STUDIO改键了中文用户联系店主索取中文版DYA STUDIO安装包。这个上位机软件改键比ZMK studio更好用。
+
 如果您需要该键盘的 3D 模型，请发送电子邮件至 `380465425@qq.com`。
 
 ## 使用说明
